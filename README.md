@@ -2,6 +2,8 @@
 
 ### GeoAI Engineer | Remote Sensing | Applied AI
 
+<img src="https://raw.githubusercontent.com/tushar2159/geoai-portfolio/main/assets/tushar-katkar-photo.jpeg" alt="Tushar Katkar" width="160" align="right" />
+
 I build geospatial AI systems across Earth observation, computer vision, data engineering, and model delivery. My public work focuses on testable Python components, reproducible workflows, spatial validation, grounded retrieval, and explicit agent orchestration. The repositories below use synthetic or public-safe examples and keep implemented capabilities distinct from planned extensions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-GeoAI-6ce7d5?style=flat-square)](https://tushar2159.github.io/geoai-portfolio/)
