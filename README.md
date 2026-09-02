@@ -2,6 +2,8 @@
 
 ### GeoAI Engineer | Remote Sensing | Applied AI
 
+**M.Sc. Geoinformatics** · IIRS–ISRO, Dehradun · ITC, University of Twente, Netherlands
+
 <img src="https://raw.githubusercontent.com/tushar2159/geoai-portfolio/main/assets/tushar-katkar-photo.jpeg" alt="Tushar Katkar" width="160" align="right" />
 
 I build geospatial AI systems across Earth observation, computer vision, data engineering, and model delivery. My public work focuses on testable Python components, reproducible workflows, spatial validation, grounded retrieval, and explicit agent orchestration. The repositories below use synthetic or public-safe examples and keep implemented capabilities distinct from planned extensions.
@@ -28,12 +30,12 @@ GeoAI · Earth Observation · Computer Vision · Deep Learning · LLMs & RAG · 
 
 ## Technical stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
 
 ## Current engineering interests
 
