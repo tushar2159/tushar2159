@@ -19,6 +19,7 @@ GeoAI · Earth Observation · Computer Vision · Deep Learning · LLMs & RAG · 
 
 | Project | Engineering focus |
 | --- | --- |
+| [agentic-earth-intelligence](https://github.com/tushar2159/agentic-earth-intelligence) | Live Element 84 STAC search, typed workflow state, FastAPI, React/MapLibre, Docker, and CI |
 | [geoai-change-detection-pipeline](https://github.com/tushar2159/geoai-change-detection-pipeline) | Bi-temporal normalization, change scoring, masks, and input contracts |
 | [geospatial-rag-assistant](https://github.com/tushar2159/geospatial-rag-assistant) | Inspectable retrieval, spatial tool routing, and structured evidence |
 | [satellite-timeseries-analytics](https://github.com/tushar2159/satellite-timeseries-analytics) | NDVI, temporal summaries, trend, and robust anomaly features |
